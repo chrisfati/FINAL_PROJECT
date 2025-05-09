@@ -1,0 +1,10 @@
+structure/
+ ├── main.dart
+ ├── screens/
+ │    ├── login_screen.dart
+ │    ├── chat_screen.dart
+ ├── widgets/
+ │    ├── message_bubble.dart
+ │    ├── message_input.dart
+ └── models/
+      └── message.dart
